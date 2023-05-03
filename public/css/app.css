@@ -1,0 +1,73 @@
+/* body{
+    background-color: antiquewhite;
+} */
+.form-holder
+{
+    margin-top: 30%;
+    margin-bottom: 20%;
+    border-radius: 20px;
+    box-shadow:1px 1px 1px 3px hsl(0, 4%, 39%);
+}
+.btn
+{
+    margin-top:2rem;
+    border-radius: 5px;
+}
+.hidden
+{
+    background-color: aqua;
+    
+}
+.text-sm{
+    margin: 4px 5px;
+    text-decoration: none;
+    font-size: 25px;
+    float: left;
+    
+}
+.text-sm:hover
+{
+color: blue;
+}
+.col-md-12
+{
+    margin-top: 25%;
+    padding-bottom: 18.9%;
+}
+.full
+{
+    background-color: aquamarine;
+    height:44.5rem;
+    width: 100%;
+}
+.containers
+{
+    background-color: rgb(127, 182, 255);
+    /* height:51.7rem; */
+    height: 100%;
+    width: 100%;
+}
+#label
+{
+    margin: 5px 4px;
+}
+.form-control
+{
+    border-radius: 10px;
+}
+h1 {
+    text-shadow: 2px 2px 5px red;
+    font-size: 60px;
+   
+  }
+
+  h2 {
+    text-shadow: 2px 2px 5px red;
+    font-size: 40px;
+    font-style: italic;
+    text-align: center;
+  }
+.tetx-justify
+{
+    float:right;
+}
